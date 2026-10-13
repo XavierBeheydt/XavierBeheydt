@@ -46,4 +46,4 @@ Otherwise: [LinkedIn](https://www.linkedin.com/in/xavier-beheydt/)
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XavierBeheydt/XavierBeheydt/output/github-snake-dark.svg" />
   <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/XavierBeheydt/XavierBeheydt/output/github-snake.svg" />
 </picture>
-<sub>École 42 Lausanne alumnus · Haute-Savoie, France · Français / English · Runs on coffee and raclette</sub>
+<sub>École 42 Lausanne alumnus · Haute-Savoie, France · Français / English · Runs on coffee ☕ and raclette 🧀</sub>
