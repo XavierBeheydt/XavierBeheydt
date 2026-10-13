@@ -2,7 +2,7 @@
 
 I write software that has to be fast, reliable and open, and sometiles I solder the hardware it runs on. Proud member of the "I could build that myself" club. Lives in tmux. Neovim, obviously.
 
-<picture> <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,c,cpp,rust,py,django,docker,neovim,arduino&theme=light" /> <img alt="Linux, C, C++, Rust, Python, Django, Docker, Neovim, Arduino" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,py,django,docker,neovim,arduino&theme=dark" /> </picture>
+<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,c,cpp,rust,py,django,docker,neovim,arduino&theme=light" /> <img alt="Linux, C, C++, Rust, Python, Django, Docker, Neovim, Arduino" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,py,django,docker,neovim,arduino&theme=dark" /> </picture> </p>
 
 Co-founder of Beheydt.DEV, a development studio in the making, somewhere between Lake Geneva and Mont Blanc 🏔️
 
