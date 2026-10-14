@@ -8,8 +8,8 @@ Co-founder of Beheydt.DEV, a development studio in the making, somewhere between
 
 ### 🏛️ Selected work
 
-- **[Lumières Lausanne](https://github.com/unil-lettres/lumieres-lausanne-2025)** · University of Lausanne
-  Main developer of a platform for publishing and editing scholarly data on the Swiss Enlightenment.
+- **[Lumières Lausanne](https://github.com/unil-lettres/lumieres-lausanne-2025)** · University of Lausanne<br>
+  Contract developer on a platform for publishing and editing scholarly data on the Swiss Enlightenment.
   Modernized the legacy codebase to Django 5 and Python 3.13, migrated the database to MySQL 9,
   then shipped the new features the researchers asked for.
   It turns out 18th-century philosophers need a modern stack too.
