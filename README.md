@@ -4,7 +4,7 @@ I write software that has to be fast, reliable and open, and sometiles I solder 
 
 <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,c,cpp,rust,py,django,docker,neovim,arduino&theme=light" /> <img alt="Linux, C, C++, Rust, Python, Django, Docker, Neovim, Arduino" src="https://skillicons.dev/icons?i=linux,c,cpp,rust,py,django,docker,neovim,arduino&theme=dark" /> </picture> </p>
 
-Co-founder of Beheydt.DEV, a development studio in the making, somewhere between Lake Geneva and Mont Blanc 🏔️
+Founder of Beheydt.DEV, a development studio in the making, somewhere between Lake Geneva and Mont Blanc 🏔️
 
 ### 🏛️ Selected work
 
