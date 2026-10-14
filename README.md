@@ -40,7 +40,7 @@ Printable files on **[Printables](https://www.printables.com/@XavierBeheyd_46539
 ### 📫 Get in touch
  
 Issues and pull requests are welcome. Bug reports with a reproducer earn my eternal gratitude.
-Otherwise: [LinkedIn](https://www.linkedin.com/in/xavier-beheydt/)
+Otherwise: [LinkedIn](https://www.linkedin.com/in/xavier-beheydt/) | [BlueSky](https://bsky.app/profile/xavier-beheydt.bsky.social) | [Discord](https://discord.com/users/xavierbeheydt)
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XavierBeheydt/XavierBeheydt/output/github-snake-dark.svg" />
